@@ -1,0 +1,11 @@
+.container {
+  width: 80%;
+  height: 400px;
+  margin: auto;
+  background: aqua;
+}
+
+ul li a {
+text-decoration: none;
+margin-right: 5px;
+}
